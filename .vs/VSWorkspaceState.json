@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Models",
+    "\\API\\Models\\Pessoa",
+    "\\API\\Models\\Pessoa\\Requests"
+  ],
+  "SelectedNode": "\\API\\Models\\Pessoa\\Requests\\AddPessoaRequest.cs",
+  "PreviewInSolutionExplorer": false
+}
