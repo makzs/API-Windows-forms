@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,70 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "AppWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T20:17:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeToolTip": "AppWinForms\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAIAwwEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:58:21.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperacoesPessoa.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\OperacoesPessoa.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
+              "RelativeToolTip": "AppWinForms\\OperacoesPessoa.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:40:24.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Models\\Pessoa.cs",
+              "RelativeToolTip": "AppWinForms\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:28:25.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "AppWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:47:56.401Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
