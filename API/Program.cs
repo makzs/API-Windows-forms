@@ -1,4 +1,5 @@
 using API.Data;
+using API.Models.Emprestimo;
 using API.Models.Livro;
 using API.Models.Pessoa;
 
@@ -27,6 +28,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.AdicionarRotasPessoas();
 app.adicionarRotasLivros();
+app.adicionarRotasEmprestimos();
 app.UseCors("Acesso Total");
 app.Run();
 

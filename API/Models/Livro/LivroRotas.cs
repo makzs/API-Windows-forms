@@ -1,7 +1,7 @@
 ﻿
 using API.Data;
 using API.Models.Livro.Requests;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace API.Models.Livro
 {

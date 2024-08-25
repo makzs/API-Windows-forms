@@ -2,9 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\API",
+    "\\API\\Data",
+    "\\API\\Models",
+    "\\API\\Models\\Livro",
+    "\\API\\Models\\Pessoa",
+    "\\API\\Models\\Pessoa\\Requests",
     "\\AppWinForms",
     "\\AppWinForms\\Models"
   ],
-  "SelectedNode": "\\API-Windows-Forms.sln",
+  "SelectedNode": "\\API\\Models\\Pessoa\\Requests\\AddPessoaRequest.cs",
   "PreviewInSolutionExplorer": false
 }
