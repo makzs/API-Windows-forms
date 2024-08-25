@@ -1,4 +1,5 @@
 using API.Data;
+using API.Models.Livro;
 using API.Models.Pessoa;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -25,6 +26,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.AdicionarRotasPessoas();
+app.adicionarRotasLivros();
 app.UseCors("Acesso Total");
 app.Run();
 

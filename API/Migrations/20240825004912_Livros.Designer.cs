@@ -10,14 +10,34 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240818231315_initial")]
-    partial class initial
+    [Migration("20240825004912_Livros")]
+    partial class Livros
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.8");
+
+            modelBuilder.Entity("API.Models.Livro.Livro", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int>("Ano")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Autor")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Titulo")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Livros");
+                });
 
             modelBuilder.Entity("API.Models.Pessoa.Pessoa", b =>
                 {
@@ -26,15 +46,12 @@ namespace API.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Documento")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Nome")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Telefone")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("Id");

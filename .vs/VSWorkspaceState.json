@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\API",
+    "\\AppWinForms",
+    "\\AppWinForms\\Models"
   ],
+  "SelectedNode": "\\API-Windows-Forms.sln",
   "PreviewInSolutionExplorer": false
 }

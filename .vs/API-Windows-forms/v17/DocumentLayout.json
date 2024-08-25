@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\livro\\livrorotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\livro\\livrorotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\pessoa\\pessoasrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\pessoa\\pessoasrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:14:18.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Pessoa\\Pessoa.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Pessoa\\Pessoa.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Pessoa\\Pessoa.cs",
+              "RelativeToolTip": "API\\Models\\Pessoa\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:13:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\Livro.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Livro\\Livro.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\Livro.cs",
+              "RelativeToolTip": "API\\Models\\Livro\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:13:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T00:04:17.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoasRotas.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Pessoa\\PessoasRotas.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Pessoa\\PessoasRotas.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Pessoa\\PessoasRotas.cs",
+              "RelativeToolTip": "API\\Models\\Pessoa\\PessoasRotas.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:32:36.429Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -43,65 +116,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "AppWinForms\\Form1.Designer.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
-              "RelativeToolTip": "AppWinForms\\Form1.Designer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "LivroRotas.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\LivroRotas.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Livro\\LivroRotas.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\LivroRotas.cs",
+              "RelativeToolTip": "API\\Models\\Livro\\LivroRotas.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:17:42.928Z",
+              "WhenOpened": "2024-08-23T23:32:18.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
-              "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
-              "RelativeToolTip": "AppWinForms\\Form1.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAIAwwEkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:58:21.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OperacoesPessoa.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
-              "RelativeDocumentMoniker": "AppWinForms\\OperacoesPessoa.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
-              "RelativeToolTip": "AppWinForms\\OperacoesPessoa.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:40:24.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Models\\Pessoa.cs",
-              "RelativeDocumentMoniker": "AppWinForms\\Models\\Pessoa.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Models\\Pessoa.cs",
-              "RelativeToolTip": "AppWinForms\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:28:25.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
               "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
               "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs [Design]",
               "RelativeToolTip": "AppWinForms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T18:47:56.401Z",
+              "WhenOpened": "2024-08-23T23:16:16.229Z",
               "EditorCaption": " [Design]"
             }
           ]

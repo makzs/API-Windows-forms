@@ -1,4 +1,5 @@
-﻿using API.Models.Pessoa;
+﻿using API.Models.Livro;
+using API.Models.Pessoa;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Data
@@ -7,6 +8,7 @@ namespace API.Data
     {
 
         public DbSet<Pessoa> Pessoas { get; set; }
+        public DbSet<Livro> Livros { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

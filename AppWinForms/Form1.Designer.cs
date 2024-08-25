@@ -37,12 +37,12 @@
             this.txtTelefone = new System.Windows.Forms.TextBox();
             this.txtDocumento = new System.Windows.Forms.TextBox();
             this.panelButton = new System.Windows.Forms.Panel();
+            this.btnDeletar = new System.Windows.Forms.Button();
             this.btnAtualizar = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
             this.btnAdicionar = new System.Windows.Forms.Button();
             this.panelData = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.btnDeletar = new System.Windows.Forms.Button();
             this.panelCampos.SuspendLayout();
             this.tableLayoutPanelCampos.SuspendLayout();
             this.panelButton.SuspendLayout();
@@ -147,6 +147,16 @@
             this.panelButton.Size = new System.Drawing.Size(784, 49);
             this.panelButton.TabIndex = 1;
             // 
+            // btnDeletar
+            // 
+            this.btnDeletar.Location = new System.Drawing.Point(441, 6);
+            this.btnDeletar.Name = "btnDeletar";
+            this.btnDeletar.Size = new System.Drawing.Size(75, 23);
+            this.btnDeletar.TabIndex = 3;
+            this.btnDeletar.Text = "Deletar";
+            this.btnDeletar.UseVisualStyleBackColor = true;
+            this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
+            // 
             // btnAtualizar
             // 
             this.btnAtualizar.Location = new System.Drawing.Point(245, 6);
@@ -197,16 +207,6 @@
             this.dataGridView1.Size = new System.Drawing.Size(784, 236);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
-            // 
-            // btnDeletar
-            // 
-            this.btnDeletar.Location = new System.Drawing.Point(441, 6);
-            this.btnDeletar.Name = "btnDeletar";
-            this.btnDeletar.Size = new System.Drawing.Size(75, 23);
-            this.btnDeletar.TabIndex = 3;
-            this.btnDeletar.Text = "Deletar";
-            this.btnDeletar.UseVisualStyleBackColor = true;
-            this.btnDeletar.Click += new System.EventHandler(this.btnDeletar_Click);
             // 
             // Form1
             // 
