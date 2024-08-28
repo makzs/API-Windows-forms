@@ -14,13 +14,18 @@ namespace AppWinForms
     public partial class Form1 : Form
     {
         private readonly OperacoesPessoa _operacoesPessoa;
+        private readonly OperacoesLivro _operacoesLivro;
         private Pessoa _pessoaSelecionada {  get; set; }
+        private Livro _livroSelecionado { get; set; }
         public Form1()
         {
             InitializeComponent();
             this._operacoesPessoa = new OperacoesPessoa();
+            this._operacoesLivro = new OperacoesLivro();
         }
 
+
+        // Layout entidade Pessoa
         private async void btnAdicionar_Click(object sender, EventArgs e)
         {
             await _operacoesPessoa.CreatePessoaAsync(new Pessoa()
@@ -85,6 +90,71 @@ namespace AppWinForms
         private async void Form1_Load(object sender, EventArgs e)
         {
             await LoadPessoasAsync();
+            await LoadLivrosAsync();
         }
+
+        // Layout Livro
+
+        private async Task LoadLivrosAsync()
+        {
+            var livros = await _operacoesLivro.GetLivrosAsync();
+            dataGridView2.DataSource = livros;
+        }
+
+        private void LimparLivros()
+        {
+            this.txtTitulo.Text = string.Empty;
+            this.txtAutor.Text = string.Empty;
+            this.txtAno.Text = string.Empty;
+            _livroSelecionado = null;
+        }
+
+        private async void btnAdicionarLivro_Click(object sender, EventArgs e)
+        {
+            await _operacoesLivro.CreateLivroAsync(new Livro()
+            {
+                Titulo = txtTitulo.Text,
+                Autor = txtAutor.Text,
+                Ano = int.Parse(txtAno.Text)
+            });
+            await LoadLivrosAsync();
+        }
+
+        private async void btnAtualizarLivro_Click(object sender, EventArgs e)
+        {
+            await _operacoesLivro.UpdateLivroAsync(_livroSelecionado.Id, new Livro()
+            {
+                Titulo = txtTitulo.Text,
+                Autor = txtAutor.Text,
+                Ano = int.Parse(txtAno.Text)
+            });
+            await LoadLivrosAsync();
+        }
+
+        private async void btnDeletarLivro_Click(object sender, EventArgs e)
+        {
+            await _operacoesLivro.DeleteLivroAsync(_livroSelecionado.Id);
+            await LoadLivrosAsync();
+        }
+
+        private void btnLimparLivros_Click(object sender, EventArgs e)
+        {
+            LimparLivros();
+        }
+
+        private void dataGridView2_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            // verifica se realmente tem uma linha selecionada
+            if (e.RowIndex >= 0)
+            {
+                var row = dataGridView2.Rows[e.RowIndex];
+                this._livroSelecionado = row.DataBoundItem as Livro;
+
+                this.txtTitulo.Text = this._livroSelecionado.Titulo;
+                this.txtAutor.Text = this._livroSelecionado.Autor;
+                this.txtAno.Text = this._livroSelecionado.Ano.ToString();
+            }
+        }
+
     }
 }

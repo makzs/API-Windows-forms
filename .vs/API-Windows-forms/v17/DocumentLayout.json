@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\emprestimo\\emprestimorotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\emprestimo\\emprestimorotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:AppWinForms\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\emprestimo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\emprestimo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:AppWinForms\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\operacoeslivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\operacoeslivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBEC576E-F5F3-4BA1-A2CF-1A77F8EECBA7}|AppWinForms\\AppWinForms.csproj|solutionrelative:appwinforms\\operacoespessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|c:\\emulador\\fn\\c#\\api-windows-forms\\api\\models\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2ED1B71-9A71-4D6B-A391-B1CC62CD996B}|API\\API.csproj|solutionrelative:api\\models\\livro\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,30 +45,85 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Emprestimo\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Emprestimo\\Emprestimo.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Emprestimo\\Emprestimo.cs",
-              "RelativeToolTip": "API\\Models\\Emprestimo\\Emprestimo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "OperacoesLivro.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesLivro.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\OperacoesLivro.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesLivro.cs",
+              "RelativeToolTip": "AppWinForms\\OperacoesLivro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T21:04:47.272Z",
+              "WhenOpened": "2024-08-28T00:24:34.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperacoesPessoa.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\OperacoesPessoa.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\OperacoesPessoa.cs",
+              "RelativeToolTip": "AppWinForms\\OperacoesPessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:23:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\Livro.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Livro\\Livro.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Livro\\Livro.cs",
+              "RelativeToolTip": "API\\Models\\Livro\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:30:33.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "AppWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAowAIBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:17:22.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmprestimoRotas.cs",
-              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Emprestimo\\EmprestimoRotas.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Emprestimo\\EmprestimoRotas.cs",
-              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\API\\Models\\Emprestimo\\EmprestimoRotas.cs",
-              "RelativeToolTip": "API\\Models\\Emprestimo\\EmprestimoRotas.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABRAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeToolTip": "AppWinForms\\Form1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAADwv5MAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T20:58:17.634Z",
+              "WhenOpened": "2024-08-25T21:16:53.923Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "AppWinForms\\Form1.cs",
+              "ToolTip": "C:\\Emulador\\FN\\C#\\API-Windows-forms\\AppWinForms\\Form1.cs [Design]",
+              "RelativeToolTip": "AppWinForms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T21:14:52.121Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
